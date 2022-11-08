@@ -1,9 +1,9 @@
-package Controladores;
+package c4g5e2seguridadvotaciones.seguridad.Controladores;
 
-import Modelos.Rol;
-import Modelos.Usuario;
-import Repositorios.RepositorioRol;
-import Repositorios.RepositorioUsuario;
+import c4g5e2seguridadvotaciones.seguridad.Modelos.Rol;
+import c4g5e2seguridadvotaciones.seguridad.Modelos.Usuario;
+import c4g5e2seguridadvotaciones.seguridad.Repositorios.RepositorioRol;
+import c4g5e2seguridadvotaciones.seguridad.Repositorios.RepositorioUsuario;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

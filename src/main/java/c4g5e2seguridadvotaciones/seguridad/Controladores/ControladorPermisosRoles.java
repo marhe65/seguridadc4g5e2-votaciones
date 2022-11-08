@@ -1,11 +1,11 @@
-package Controladores;
+package c4g5e2seguridadvotaciones.seguridad.Controladores;
 
-import Modelos.Permiso;
-import Modelos.PermisosRoles;
-import Modelos.Rol;
-import Repositorios.RepositorioPermiso;
-import Repositorios.RepositorioPermisosRoles;
-import Repositorios.RepositorioRol;
+import c4g5e2seguridadvotaciones.seguridad.Modelos.Permiso;
+import c4g5e2seguridadvotaciones.seguridad.Modelos.PermisosRoles;
+import c4g5e2seguridadvotaciones.seguridad.Modelos.Rol;
+import c4g5e2seguridadvotaciones.seguridad.Repositorios.RepositorioPermiso;
+import c4g5e2seguridadvotaciones.seguridad.Repositorios.RepositorioPermisosRoles;
+import c4g5e2seguridadvotaciones.seguridad.Repositorios.RepositorioRol;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

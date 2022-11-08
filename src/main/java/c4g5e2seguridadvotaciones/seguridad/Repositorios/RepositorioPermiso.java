@@ -1,6 +1,6 @@
-package Repositorios;
+package c4g5e2seguridadvotaciones.seguridad.Repositorios;
 
-import Modelos.Permiso;
+import c4g5e2seguridadvotaciones.seguridad.Modelos.Permiso;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.mongodb.repository.Query;
 

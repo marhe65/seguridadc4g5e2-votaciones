@@ -1,4 +1,4 @@
-package Modelos;
+package c4g5e2seguridadvotaciones.seguridad.Modelos;
 
 import lombok.Data;
 import org.springframework.data.annotation.Id;

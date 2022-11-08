@@ -1,8 +1,8 @@
-package Repositorios;
+package c4g5e2seguridadvotaciones.seguridad.Repositorios;
 
+import c4g5e2seguridadvotaciones.seguridad.Modelos.PermisosRoles;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.data.mongodb.repository.Query;
-import Modelos.PermisosRoles;
 
 
 public interface RepositorioPermisosRoles extends MongoRepository<PermisosRoles,String> {
